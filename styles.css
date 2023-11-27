@@ -1,0 +1,65 @@
+html{
+    height: 100%;
+    width: 100%;
+}
+body{
+    display: flex;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #C2D9FF;
+}
+img{
+    height: 100%;
+    width: 600px;
+    margin: 0;
+    padding: 0;
+   
+
+}
+.Credit{
+    margin: 0;
+}
+
+.text-section{
+    display: flex;
+    flex-direction: column;
+}
+
+.Description{
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    padding-top: 130px;
+    padding-bottom: 30px;
+}
+
+.final-passage{
+    margin-top: 20px;
+}
+
+form{
+    padding: 50px;
+}
+
+
+
+input{
+    margin-bottom: 20px;
+}
+.formContainer{
+    display: flex;
+    gap: 50px;
+    
+   
+}
+
+button{
+    color: white;
+    height: 40px;
+    width: 130px;
+    border-radius: 10px;
+    background-color: black;
+}
+
